@@ -16,4 +16,3 @@ Cocos2d-x 3.2 プロジェクト
         - Eclipseの『FakeCall』プロジェクトを右クリックして『プロパティ』を選択
         - [リソース] - [リンクされたリソース] の『リンクされたリソース』タブにある[絶対パスロケーション]-[libcocos2dx]のパスに以下を設定
             - ${COCOS2DX}\cocos\platform\android\java\src
-        - [リソース] - [Android] のライブラリーに『libcocos2dx』プロジェクトを追加
